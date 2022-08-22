@@ -112,6 +112,18 @@ body {
     text-transform: uppercase;
 }
 
+.soft-skills ul {
+    padding-top: 1.5rem;
+}
+.soft-skills ul li p {
+    padding: .4rem 0;
+    color: #d6dbdfaf;
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+}
 .referance-name {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
